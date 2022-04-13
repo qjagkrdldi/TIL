@@ -1,4 +1,4 @@
 # TIL
 Today I Learned.
 
-blabla.
+열심히 하겠습니당 ㅎㅎ.
