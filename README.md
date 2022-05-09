@@ -3,8 +3,8 @@ Today I Learned.
 
 javascript, react, ... fighting
 
-My velog
+My velog      
 [https://velog.io/@qjagkrdldi](https://velog.io/@qjagkrdldi)
 
-)
+
 
